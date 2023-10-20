@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Prajapati</h1>
-<h3 align="center">A Passionate Frontend Developer With Love Make Exceptional User-Expero</h3>
+<h3 align="center">A Passionate Frontend Developer With Love to Create Exceptional User-Expero</h3>
 
 <img align="right" alt="coding guy" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
